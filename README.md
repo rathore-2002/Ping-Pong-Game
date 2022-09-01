@@ -1,2 +1,4 @@
 # Ping-Pong-Game
- In this use keys A and D for the movement of the rods.
+RULES->
+ # In this use keys A and D for the movement of the rods.
+ # Press Enter key to start the game.
